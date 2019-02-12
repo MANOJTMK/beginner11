@@ -11,7 +11,7 @@ int main() {
    }
    for(i=l-k;i<l;i++)
    {
-       printf("%c",a[i]);
+       printf("%c",\na[i]);
    }
    return 0;
 }
